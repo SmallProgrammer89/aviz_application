@@ -1,9 +1,3 @@
-import 'package:aviz_application/screens/add_aviz_fifth_step.dart';
-import 'package:aviz_application/screens/add_aviz_forth_step.dart';
-import 'package:aviz_application/screens/add_aviz_thirth_step.dart';
-import 'package:aviz_application/screens/aviz_detail_screen.dart';
-import 'package:aviz_application/screens/main_screen.dart';
-import 'package:aviz_application/screens/my_aviz_screen.dart';
 import 'package:aviz_application/screens/welcome_screen.dart';
 import 'package:flutter/material.dart';
 
