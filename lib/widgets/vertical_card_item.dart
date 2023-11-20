@@ -83,7 +83,7 @@ class VerticalCardItem extends StatelessWidget {
                 ':قیمت',
                 textAlign: TextAlign.right,
                 style: TextStyle(
-                  color: Color(0xFF101828),
+                  color: CustomColor.customRed,
                   fontSize: 15,
                   fontFamily: 'Shabnam',
                   fontWeight: FontWeight.w500,
